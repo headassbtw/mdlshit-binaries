@@ -1,2 +1,3 @@
-# mdlshit-binaries
-Compiled releases for mdlshit, before we go open-source
+# Repo is now obsolete
+
+move to [the real repo](https://github.com/headassbtw/mdlshit/)
